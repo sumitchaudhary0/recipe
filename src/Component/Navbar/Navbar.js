@@ -7,7 +7,7 @@ export default class Navbar extends Component {
             <React.Fragment>
             <nav>
                 <div>
-                    <img src={logo} alt="logo"/>
+                    <img src={logo} alt="logos"/>
                     </div>
                 </nav>
                 </React.Fragment>
